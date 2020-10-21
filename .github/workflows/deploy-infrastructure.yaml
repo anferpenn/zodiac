@@ -4,7 +4,7 @@ name: Deploy All Infrastructure
 env:
    DB_ADMIN_PASSWORD: ${{ secrets.DB_ADMIN_PASSWORD }}
 
-jobs:
+jobs: 
   job1:
     runs-on: ubuntu-latest
     steps:
