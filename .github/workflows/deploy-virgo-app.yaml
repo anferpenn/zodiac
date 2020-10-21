@@ -9,7 +9,7 @@ env:
 
 on: [workflow_dispatch]
 
-jobs:
+jobs: 
   build-and-deploy:
 
     runs-on: windows-latest
