@@ -8,7 +8,7 @@ env:
 #    - scorpio-api/Application/**
 
 on: [workflow_dispatch]
-jobs:
+jobs: 
   build_and_deploy:
     runs-on: ubuntu-latest
     steps:
