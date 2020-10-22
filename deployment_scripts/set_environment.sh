@@ -1,12 +1,12 @@
 #!/bin/bash
 
 export DEFAULT_LOCATION=uksouth
-export SIRMIONE_ALIAS=wh6421  
-export LIMONE_ALIAS=wh6421
-export SCORPIO_ALIS=wh6421
-export VIRGO_ALIAS=wh6421
-export LIBRA_ALIAS=wh6421
-export ZODIAC_ALIAS=wh6421
+export SIRMIONE_ALIAS=wh6421sirmione  
+export LIMONE_ALIAS=wh6421limone
+export SCORPIO_ALIS=wh6421scorpio
+export VIRGO_ALIAS=wh6421virgo
+export LIBRA_ALIAS=wh6421libra
+export ZODIAC_ALIAS=wh6421zodiac
 export DB_ADMIN_USER=Hardaway78
 export AAD_DOMAIN=xekina.onmicrosoft.com
 export AAD_TENANTID=3bc03625-3a0a-48c5-8aa5-12f22e401fff
