@@ -3,7 +3,7 @@
 export DEFAULT_LOCATION=uksouth
 export SIRMIONE_ALIAS=wh6421sirmione  
 export LIMONE_ALIAS=wh6421limone
-export SCORPIO_ALIS=wh6421scorpio
+export SCORPIO_ALIAS=wh6421scorpio
 export VIRGO_ALIAS=wh6421virgo
 export LIBRA_ALIAS=wh6421libra
 export ZODIAC_ALIAS=wh6421zodiac
